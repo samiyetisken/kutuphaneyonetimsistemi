@@ -8,56 +8,61 @@
 
 ## Grup Bilgileri
 
-| Öğrenci No | Adı Soyadı           | Bölüm          		   | Proje Grup No | Grup Üyelerinin Github Profilleri                 |
-|------------|----------------------|--------------------------|---------------|---------------------------------------------------|
-| 123456789  | Fatih BAL			| Yazılım Mühendisliği     | PROJE_1       | [Github](https://github.com/balfatih)     |
-| 987654321  | Öğrenci Adı Soyadı   | Yazılım Mühendisliği     | PROJE_1       | [Github](https://github.com/balfatih)     |
-| 456789123  | Öğrenci Adı Soyadı   | Yazılım Mühendisliği     | PROJE_1       | [Github](https://github.com/balfatih)     |
+|  Öğrenci No |       Adı Soyadı       |        Bölüm          		| Proje Grup No | Grup Üyelerinin Github Profilleri                 |
+|-------------|------------------------|--------------------------|---------------|---------------------------------------------------|
+| 1210505068  | Sami Yetişken			     | Yazılım Mühendisliği     | PROJE_5       | [Github](https://github.com/samiyetisken/)        |
+| 1210505033  | Muhammed Eren Yüksel   | Yazılım Mühendisliği     | PROJE_5       | [Github](https://github.com/Eren075/)             |
+
 
 ---
 
 ## Proje Açıklaması
 
-Buraya proje ile ilgili genel bir açıklama ekleyin. Projenizin amacı, kapsamı, kullanılan teknolojiler ve belki de projenin nasıl çalıştırılacağı gibi önemli bilgileri içermelidir.
 
+Projemiz Java Swing ve mySQL kullanılarak geliştirilmiş bir kütüphane yönetim sistemidir. Projemizde farklı tasarım desenleri kullanılmıştır. Projemizin amacı kütüphaneye kullanıcı ekleme, kaldırma, düzenleme; kitap ekleme, silme, düzenleme; ödünç alınan kitapları kimin aldığını görme, değerlendirme silme gibi adminlere has özellikler bulunur. Bir de herkesin erişebileceği kitap sayısı, kullanıcı sayını görme; kitap ödünç alma, iade etme, değerlendirme ekleme, ödünç aldığın kitapları görme, genel kitapları görme gibi özellikleri vardır.
 ---
 
 ## Proje Dosya Yapısı
 
 Projenizin dosya yapısını açıklayan bir bölüm ekleyebilirsiniz. Örneğin:
-- **/src**
-  - **/components**
+- **/Kutuphane**
+  - **/DataBase**
     - `Component1.js`
     - `Component2.js`
-  - **/utils**
-    - `utility.js`
-- **/public**
-  - `index.html`
+  - **/build/classes**
+  - **/nbproject**
+  - **/src/kutuphane/DataBase**
+  - **/Kutuphane.java**
+  - **/build.xml**
+  - **/manifest.xml**
+- **/mySQL**
+    - `library.sql`
+
 - `README.md`
-- `LICENSE`  
+
 
 
 ---
 
 ## Kurulum
 
-Projeyi yerel bilgisayarınıza klonlamak ve çalıştırmak için adımları buraya ekleyin.  
-Gerekli bağımlılıkların nasıl yükleneceği (veri seti, kullanılan kütüphanelerin sürümleri vs.), konfigürasyon adımları vb. bu bölümde bulunabilir.
+ Projemizi çalıştırmak için öncelikle verdiğimiz mySQL dosyasının içinde bulunan library.sql dosyasını çalıştırmanız gerekiyor. Sonra kullandığınız IDE ye Kutuphane projemizi eklemeniz gerekmektedir. ardından ise mySQL hesap bilgilerinizi projenin içinde yer alan DatabaseManeger kısmında düzenlemeniz gerekiyor. En önemlisi ise mysql-connector kullanmanız gerekiyor. 
 
 ---
 
 ## Kullanım
 
-Projenin nasıl kullanılacağına dair bilgileri ekleyin. Örneğin, projenizi bir kişi bilgisayarına indirdiğinde sorunsuz bir şekilde çalıştırması için yapması gereken adımları listeleyin.
+Projemizi kullanabilmeniz için öncelikle login.java dosyasını çalıştırıp "Admin" "123456" bilgileriyle giriş yapabilirsiniz. Daha sonra kullanıcı ayarları kısmından kullanıcı ekle tuşuna basarak farklı kullanıcılar ekleyerek giriş yapabilirsiniz. Projemizde bir kritik nokta var çıkış yaparken mutlaka çıkış yap tuşuna basılarak çıkılmalıdır. Aksi halde unutulursa bu library veritabanından giris tablosunun içindekileri "delete from giris;" koduyla silerek rahatlıkla kullanmaya devam edebilirsiniz.
 
 ---
 
 ## Katkılar
 
-Projeyi yaparken hangi kaynaklardan bilgi edindiğinizi belirtin.
+Projeyi yaparken ChatGPT, çeşitli youtube ve forum sayfaları, ders materyallerini ve çeşitli kütüphane yönetim sistemlerinden yararlandık.
 
 ---
 
 ## İletişim
 
-Proje ile ilgili iletişim bilgileri veya bağlantılarınızı ekleyin. Örneğin, e-posta adresleri, sosyal medya hesapları vb.
+Sami Yetişken = samiyetisken@gmail.com
+Muhammed Eren Yüksel = m.eren003@hotmail.com  / instagram.com/muhammederenyuksel
