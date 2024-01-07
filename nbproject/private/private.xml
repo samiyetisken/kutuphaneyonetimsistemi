@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/kutuphane/DataBase/kitapOduncAl.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>14</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/samiy/Documents/NetBeansProjects/Kutuphane/src/kutuphane/DataBase/kullanıcıkitapiadeet.java</file>
+            <file>file:/C:/Users/samiy/Documents/NetBeansProjects/Kutuphane/src/kutuphane/DataBase/kitapdegerlendirme.java</file>
+            <file>file:/C:/Users/samiy/Documents/NetBeansProjects/Kutuphane/src/kutuphane/DataBase/kitapekle.java</file>
+            <file>file:/C:/Users/samiy/Documents/NetBeansProjects/Kutuphane/src/kutuphane/DataBase/ödünçalınankitaplar.java</file>
+            <file>file:/C:/Users/samiy/Documents/NetBeansProjects/Kutuphane/src/kutuphane/DataBase/BorrowKitap.java</file>
+            <file>file:/C:/Users/samiy/Documents/NetBeansProjects/Kutuphane/src/kutuphane/DataBase/kullanıcısil.java</file>
+            <file>file:/C:/Users/samiy/Documents/NetBeansProjects/Kutuphane/src/kutuphane/DataBase/degerlendirmeSiralamaStrategy.java</file>
+            <file>file:/C:/Users/samiy/Documents/NetBeansProjects/Kutuphane/src/kutuphane/DataBase/IBaseManager.java</file>
+            <file>file:/C:/Users/samiy/Documents/NetBeansProjects/Kutuphane/src/kutuphane/DataBase/kitapsil.java</file>
+            <file>file:/C:/Users/samiy/Documents/NetBeansProjects/Kutuphane/src/kutuphane/DataBase/puanaGoreSiralama.java</file>
+            <file>file:/C:/Users/samiy/Documents/NetBeansProjects/Kutuphane/src/kutuphane/DataBase/siralamaManager.java</file>
+            <file>file:/C:/Users/samiy/Documents/NetBeansProjects/Kutuphane/src/kutuphane/DataBase/kitapgüncelle.java</file>
+            <file>file:/C:/Users/samiy/Documents/NetBeansProjects/Kutuphane/src/kutuphane/DataBase/kullanıcıkitapödünçal.java</file>
+            <file>file:/C:/Users/samiy/Documents/NetBeansProjects/Kutuphane/src/kutuphane/DataBase/Degerlendir.java</file>
+            <file>file:/C:/Users/samiy/Documents/NetBeansProjects/Kutuphane/src/kutuphane/DataBase/IOduncAlındı.java</file>
+            <file>file:/C:/Users/samiy/Documents/NetBeansProjects/Kutuphane/src/kutuphane/DataBase/kitaplar.java</file>
+            <file>file:/C:/Users/samiy/Documents/NetBeansProjects/Kutuphane/src/kutuphane/DataBase/adminanasayfa.java</file>
+            <file>file:/C:/Users/samiy/Documents/NetBeansProjects/Kutuphane/src/kutuphane/DataBase/kullanıcıanasayfa.java</file>
+            <file>file:/C:/Users/samiy/Documents/NetBeansProjects/Kutuphane/src/kutuphane/DataBase/kullanıcıkitapdegerlendirme.java</file>
+            <file>file:/C:/Users/samiy/Documents/NetBeansProjects/Kutuphane/src/kutuphane/DataBase/kitapDegerlendir.java</file>
+        </group>
+    </open-files>
+</project-private>
