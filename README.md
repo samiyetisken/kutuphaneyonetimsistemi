@@ -63,4 +63,5 @@ Projeyi yaparken ChatGPT, çeşitli youtube ve forum sayfaları, ders materyalle
 ## İletişim
 
 Sami Yetişken = samiyetisken@gmail.com
+
 Muhammed Eren Yüksel = m.eren003@hotmail.com  / instagram.com/muhammederenyuksel
