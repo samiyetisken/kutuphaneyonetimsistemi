@@ -27,8 +27,6 @@ Projemiz Java Swing ve mySQL kullanılarak geliştirilmiş bir kütüphane yöne
 Projenizin dosya yapısını açıklayan bir bölüm ekleyebilirsiniz. Örneğin:
 - **/Kutuphane**
   - **/DataBase**
-    - `Component1.js`
-    - `Component2.js`
   - **/build/classes**
   - **/nbproject**
   - **/src/kutuphane/DataBase**
