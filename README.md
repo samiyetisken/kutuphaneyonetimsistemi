@@ -24,7 +24,6 @@ Projemiz Java Swing ve mySQL kullanılarak geliştirilmiş bir kütüphane yöne
 
 ## Proje Dosya Yapısı
 
-Projenizin dosya yapısını açıklayan bir bölüm ekleyebilirsiniz. Örneğin:
 - **/Kutuphane**
   - **/DataBase**
   - **/build/classes**
